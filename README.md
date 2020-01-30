@@ -11,12 +11,12 @@ Hardware:
 
 Connections
 
-Same for both ESPs
-ESP32 ----------------- CJMCU-230
-A4      ----------------- CRX
-A5      ----------------- CTX
-3V      ----------------- 3V3
-GND     ----------------- GND
+Same for both ESPs <br/>
+ESP32 ----------------- CJMCU-230 <br/>
+A4      ----------------- CRX <br/>
+A5      ----------------- CTX <br/>
+3V      ----------------- 3V3 <br/>
+GND     ----------------- GND <br/>
 
 update 2018.02.23
 
